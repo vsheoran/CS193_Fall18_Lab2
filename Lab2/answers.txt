@@ -1,0 +1,33 @@
+# ==========================
+# Beginning of answer sheet.
+# ==========================
+
+# -----------------
+# Task 1 Answer
+# -----------------
+mv "purdue classes"/math/maa162 "purdue classes"/math/ma162
+
+# -----------------
+# Task 2 Answer
+# -----------------
+rm purdue\ classes/math/pol341
+
+# -----------------
+# Task 3 Answer
+# -----------------
+mv "purdue classes"/"computer science"/ma261 "purdue classes"/math
+
+# -----------------
+# Task 4 Answer
+# -----------------
+mkdir -p "purdue professor"/"computer science professor"
+
+# -----------------
+# Task 5 Answer
+# -----------------
+mv "purdue buildings"/Professor* "purdue professor"/"computer science professor"
+
+# -----------------
+# Task 6 Answer
+# ----------------
+ls "purdue buildings" "purdue classes"/math "purdue classes"/"computer science" "purdue professor"/"computer science professor"
