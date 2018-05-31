@@ -25,8 +25,81 @@ Below is the folder structure that is generated from running the script command.
         |   ├──math/ 
         |   |   ├──maa162
         |   |   ├──ma153
-        |   |   ├──po341
+        |   |   ├──pol341
        
+ ## Rules and Example Task 
+There are 6 tasks, and you will write 6 **one line** terminal commands that fulfill that task. Each command may only contain **ONE BASE COMMAND** (`mv`, `ls`, `cp`, `rm`, etc). You may not combine different base commands (`cd`, `mv`) into one response, and you may not combine two of the same base commands (`mv`, `mv`) into one response. Examples of this are below in the *Task 0 Example*.
+
+**All commands should be recorded in answers.txt.** 
+
+> NOTE: Do not save this file within `~/cs193lab2` because that folder and all of its contents will be erased each time you run the bash init script
+
+
+#### Example: Task 0 
+
+    Working Directory:  ~/cs193lab2/
+
+    Desired Action:     print out only the contents of the folder "purdue buildings"
+
+    Write the answer under the Task 0 block. Make sure not to put '#' before your answer.
+
+#### Example: Task 0 Sample Answer 
+    # -----------------
+    # Task 0 Answer
+    # -----------------
+    ls "purdue buildings"
+
+This above answer is allowed because it is on one line and only contains one base command, which in this case, is a single `ls`.  
+
+
+## Assigned Tasks 
+Solve all 6 of these tasks, and record your answers in the `answers.txt` file. 
+
+    
+ #### Task 1
+
+    Working Directory:  ~/cs193lab2/
+
+    Desired Action:    rename the file maa162 located in ~/cs193lab2/purdue classes/math to ma162 
+
+    Write the answer under the Task 1 block.
+  #### Task 2
+
+    Working Directory:  ~/cs193lab2/
+
+    Desired Action:    remove the file pol334 located in ~/cs193lab2/"purdue classes"/math to ma162 
+
+    Write the answer under the Task 2 block.
+    
+   #### Task 3
+
+    Working Directory:  ~/cs193lab2/
+
+    Desired Action:    move the file ma261 located in ~/cs193lab2/"purdue classes"/"computer science" to the math folder located in ~/cs193lab2/"purdue classes"
+
+    Write the answer under the Task 3 block.
+#### Task 4
+
+    Working Directory:  ~/cs193lab2/
+
+    Desired Action:     make a folder called "purdue professors" with a folder inside called "computer science professors" in the working directory
+
+    Write the answer under the Task 4 block.
+#### Task 5 
+
+    Working Directory:  ~/cs193lab2/
+
+    Desired Action:     move "Professor Dunsmore" and Professor Comer" to the newly created folder called "computer science professors"
+
+    Write the answer under the Task 5 block.
+#### Task 6 
+
+    Working Directory:  ~/cs193lab2/
+
+    Desired Action:     print out  the contents of all folders and subfolders in the working directory
+    
+    Write the answer under the Task 6 block.
+        
 Here is how the folder structure should look at the end of this lab. 
 
     cs193lab2/
@@ -47,7 +120,8 @@ Here is how the folder structure should look at the end of this lab.
         |   |   ├──ma261
         |
         ├── purdue professors/
-        |   ├── Professor Dunsmore
-        |   ├── Professor Comer
+        |   ├── computer science professors/
+        |   |  ├── Professor Dunsmore
+        |   |  ├── Professor Comer
         
        
