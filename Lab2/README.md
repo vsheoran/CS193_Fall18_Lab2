@@ -100,7 +100,7 @@ Solve all 6 of these tasks, and record your answers in the `answers.txt` file.
     
     Write the answer under the Task 6 block.
         
-Here is how the folder structure should look at the end of this lab. 
+Here is how the folder structure should look at the end of all tasks. 
 
     cs193lab2/
         ├── purdue buildings/
@@ -125,3 +125,4 @@ Here is how the folder structure should look at the end of this lab.
         |   |  ├── Professor Comer
         
        
+#### How to Submit: 
