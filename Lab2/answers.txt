@@ -31,3 +31,6 @@ mv "purdue buildings"/Professor* "purdue professor"/"computer science professor"
 # Task 6 Answer
 # ----------------
 ls "purdue buildings" "purdue classes"/math "purdue classes"/"computer science" "purdue professor"/"computer science professor"
+or
+ls "purdue buildings" "purdue classes" "purdue classes"/math "purdue classes"/"computer science" "purdue professor"/"computer science professor"
+
