@@ -1,7 +1,7 @@
 # CS 193 Lab 2 - Unix Commands
 The purpose of this lab is to teach the basics of using the terminal. After you finish this lab, you will be able to manipulate files on any UNIX-like machine (including your Purdue CS account)!
 
-Before starting the lab, you might want to check out the [Cheat Sheet](https://github.com/ssagheer532/CS193-Labs/blob/master/Lab2/cheat-sheet.md) to review all the common commands. 
+Before starting the lab, you might want to check out the [Cheat Sheet](https://github.com/ssagheer532/CS193_Fall18_Lab2/blob/master/cheat-sheet.md) to review all the common commands. 
 
 
 ### Folder Structure 
