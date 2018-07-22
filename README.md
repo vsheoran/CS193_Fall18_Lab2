@@ -3,6 +3,15 @@ The purpose of this lab is to teach the basics of using the terminal. After you 
 
 Before starting the lab, you might want to check out the [Cheat Sheet](https://github.com/ssagheer532/CS193_Fall18_Lab2/blob/master/cheat-sheet.md) to review all the common commands. 
 
+### Getting Started
+In order to start working on this lab, you're going to first clone this repo. Cloning a git repository essentially means you're create a local copy of all the code. If you want to learn more about cloning, go [here!](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone).
+
+Here are the steps in order to get your local repo set up: 
+
+1. Open up the terminal and go to the folder where you want to save this repository (it can be any folder including your home directory) 
+2. Run 'git clone https://github.com/ssagheer532/CS193_Fall18_Lab2.git'. Now if you type 'ls' and press enter you should see a new folder called "CS193_Fall18_Lab2"
+3. Go to the "CS193_Fall18_Lab2" folder by running 'cd CS193_Fall18_Lab2' 
+4. Run 'bash lab2init' in order to generate the files and folders for the rest of the lab. Note, a new folder called cs193lab2 will be generated in your home directory. Run 'cd ~' to go to your home directory and 'cd' into "cs193lab2" 
 
 ### Folder Structure 
 Below is the folder structure that is generated from running the script command. As you can see, there are some problems. For example, ma261 is in the computer science folder instead of the math folder. Throughout this lab, you will write terminal commands that fix these mistakes.
