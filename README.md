@@ -39,7 +39,7 @@ Below is the folder structure that is generated from running the script command.
  ## Rules and Example Task 
 There are 6 tasks, and you will write 6 **one line** terminal commands that fulfill that task. Each command may only contain **ONE BASE COMMAND** (`mv`, `ls`, `cp`, `rm`, etc). You may not combine different base commands (`cd`, `mv`) into one response, and you may not combine two of the same base commands (`mv`, `mv`) into one response. Examples of this are below in the *Task 0 Example*.
 
-**All commands should be recorded in answers.txt.** 
+**All commands should be recorded in answers.txt. This file is located in your cloned repo!** 
 
 > NOTE: Do not save this file within `~/cs193lab2` because that folder and all of its contents will be erased each time you run the bash init script
 
