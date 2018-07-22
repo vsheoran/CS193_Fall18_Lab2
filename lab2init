@@ -1,0 +1,9 @@
+rm -rf ~/cs193lab2
+
+mkdir -p ~/cs193lab2/"purdue buildings" ~/cs193lab2/"purdue classes"/"computer science" ~/cs193lab2"/purdue classes"/math
+
+touch ~/cs193lab2/"purdue buildings"/{Lawson,Hicks,Rawls,"Professor Dunsmore","Professor Comer",Krannert}
+touch ~/cs193lab2/"purdue classes"/"computer science"/{cs180,cs182,ma261}
+touch ~/cs193lab2/"purdue classes"/math/{maa162,ma153,pol341}
+
+echo -e '\ndirectory ~/cs193lab2 reset!'
