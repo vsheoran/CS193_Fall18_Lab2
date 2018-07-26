@@ -11,9 +11,9 @@ In order to start working on this lab, you're going to first clone this repo. Cl
 Here are the steps in order to get your local repo set up: 
 
 1. Open up the terminal and go to the folder where you want to save this repository (it can be any folder including your home directory) 
-2. Go to the main repo page on github and find the green button called "clone or download" on the right side. Click it and copy the url. Now go back to the terminal and run 'git clone INSERT_URL_HERE'. Now if you type 'ls' and press enter you should see a new folder called "CS193_Fall18_Lab2"
+2. Go to the main repo page on github and find the green button called "clone or download" on the right side. Click it and copy the url. Now go back to the terminal and run ```git clone INSERT_URL_HERE```. Now if you type 'ls' and press enter you should see a new folder called "CS193_Fall18_Lab2"
 3. Go to the "CS193_Fall18_Lab2" folder by running 'cd CS193_Fall18_Lab2' 
-4. Run 'bash lab2init' in order to generate the files and folders for the rest of the lab. Note, a new folder called cs193lab2 will be generated in your home directory. Run 'cd ~' to go to your home directory and 'cd' into "cs193lab2" 
+4. Run ```bash lab2init``` in order to generate the files and folders for the rest of the lab. Note, a new folder called cs193lab2 will be generated in your home directory. Run ```cd ~``` to go to your home directory and 'cd' into "cs193lab2" 
 
 **In this lab you will be submitting a file called 'answers.txt'. Github lets us edit files directly on the website which is how you will complete this lab. Click 'answers.txt' in your repo and then click the pencil button on the right. Now you can edit this file directly through github and when you're done press "commit changes" to submit the lab.** 
 
