@@ -45,7 +45,7 @@ There are 6 tasks, and you will write 6 **one line** terminal commands that fulf
 
 **All commands should be recorded in answers.txt!** 
 
-**All commands must be run from the working directory. You are not allowed to use commands from a directory other than the working directory.**
+**All commands must be run from the working directory. You are not allowed to run commands from a directory other than the working directory (answers cannot contain the `cd` command).**
 
 > NOTE: Do not save this file within `~/cs193lab2` because that folder and all of its contents will be erased each time you run the bash init script
 
