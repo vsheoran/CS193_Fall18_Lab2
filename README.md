@@ -45,6 +45,8 @@ There are 6 tasks, and you will write 6 **one line** terminal commands that fulf
 
 **All commands should be recorded in answers.txt!** 
 
+**All commands must be run from the working directory. You are not allowed to use commands from a directory other than the working directory.**
+
 > NOTE: Do not save this file within `~/cs193lab2` because that folder and all of its contents will be erased each time you run the bash init script
 
 
@@ -102,7 +104,7 @@ Solve all 6 of these tasks, and record your answers in the `answers.txt` file.
 
     Working Directory:  ~/cs193lab2/
 
-    Desired Action:     move "Professor Dunsmore" and Professor Comer" to the newly created folder called "computer science professors"
+    Desired Action:     move "Professor Dunsmore" and Professor Comer", located in ~/cs193lab2/"purdue buildings", to the newly created folder called "computer science professors"
 
     Write the answer under the Task 5 block.
 #### Task 6 
