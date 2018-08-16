@@ -80,7 +80,7 @@ Solve all 6 of these tasks, and record your answers in the `answers.txt` file.
 
     Working Directory:  ~/cs193lab2/
 
-    Desired Action:    remove the file pol334 located in ~/cs193lab2/"purdue classes"/math to ma162 
+    Desired Action:    remove the file pol341 located in ~/cs193lab2/"purdue classes"/math
 
     Write the answer under the Task 2 block.
     
