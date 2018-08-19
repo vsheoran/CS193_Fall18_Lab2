@@ -6,7 +6,7 @@ Before starting the lab, you might want to check out the [Cheat Sheet](https://g
 **If you need help or have questions during any part of this lab (including how to turn in) please ask questions! We're here to help you!**
 
 ### Getting Started
-In order to start working on this lab, you're going to first clone this repo. Cloning a git repository essentially means you're create a local copy of all the code. If you want to learn more about cloning, go [here!](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone).
+In order to start working on this lab, you're going to first clone this repo. Cloning a git repository essentially means you're creating a local copy of all the code. If you want to learn more about cloning, go [here!](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone).
 
 Here are the steps in order to get your local repo set up: 
 
@@ -104,7 +104,7 @@ Solve all 6 of these tasks, and record your answers in the `answers.txt` file.
 
     Working Directory:  ~/cs193lab2/
 
-    Desired Action:     move "Professor Dunsmore" and Professor Comer", located in ~/cs193lab2/"purdue buildings", to the newly created folder called "computer science professors"
+    Desired Action:     move "Professor Dunsmore" and "Professor Comer", located in ~/cs193lab2/"purdue buildings", to the newly created folder called "computer science professors"
 
     Write the answer under the Task 5 block.
 #### Task 6 
@@ -141,7 +141,7 @@ Here is how the folder structure should look at the end of all tasks.
         
        
 #### How to Submit: 
-Go to your repository on github.com and ensure the file answers.txt contains answers for all 6 parts. If you havn't already, edit this file directly through github  and when you're done press "commit changes" to submit the lab. 
+Go to your repository on github.com and ensure the file answers.txt contains answers for all 6 parts. If you haven't already, edit this file directly through github  and when you're done press "commit changes" to submit the lab. 
 
 ### Extra Fun
 Take a look at "lab2init" and see if you can figure out how the script works! 
